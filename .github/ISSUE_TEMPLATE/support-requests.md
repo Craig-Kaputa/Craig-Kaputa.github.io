@@ -1,5 +1,5 @@
 ---
-name: Support Requests
+name: Support Request
 about: Support request for developers working with the API.
 title: ''
 labels: ''
