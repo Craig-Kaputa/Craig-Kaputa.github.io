@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Independent Health Interoperability API Developer Portal
 
-You can use the [editor on GitHub](https://github.com/Craig-Kaputa/Craig-Kaputa.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+**The Independent Health Interoperability API Developer Portal provides third-party app developers with access to documentation, registration services, Developer Sandbox services, and other developer services related to application programming interfaces (“APIs”) provided by Independent Health or one of its subsidiaries.**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you are a DEVELOPER and would like to connect your application to our Interoperability API we’re here to support you each step of the way. 
+The Developer Sandbox will allow 3rd Party Application Developers to test their application’s connection to the APIs.
+Our 3rd Party Developer forum will allow you to search through discussions and review previously asked questions.
 
-### Markdown
+When you are ready you can submit a request for access to the Sandbox version of the Interoperability API using this form: [Request Sandbox API Access](www.google.com)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+As you work through connecting your application to our CMS Patient Access/ FHIR v7 Compliance API, you can submit support requests using this form: [Request Sandbox API Access](www.google.com)
+Once the sandbox connection has been established and tested and you are ready to proceed you can submit a Production API Key request using this form: [Request Sandbox API Access](www.google.com)
 
-```markdown
-Syntax highlighted code block
+As you complete the forms above, be sure to:
+•	Inculde all fields
+•	Pay special attention to the URLs and links within your requests
 
-# Header 1
-## Header 2
-### Header 3
+**We will:**
+•	Review and respond to your request in a timely manner.
+•	If your request is approved, we will email you a Client ID and Secret. It is important that you save the client ID and secret in a secure manner.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Craig-Kaputa/Craig-Kaputa.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
