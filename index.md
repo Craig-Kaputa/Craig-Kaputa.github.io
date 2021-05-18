@@ -8,9 +8,9 @@ Our 3rd Party Developer forum will allow you to search through discussions and r
 
 When you are ready you can submit a request for access to the Sandbox version of the Interoperability API using this form: [Request Sandbox API Access](https://github.com/Craig-Kaputa/Craig-Kaputa.github.io/issues/new?assignees=&labels=&template=sandbox-api-key-request.md&title=Request+for+Sandbox+API+Access)
 
-As you work through connecting your application to our CMS Patient Access/ FHIR v7 Compliance API, you can submit support requests using this form: [Support Request](www.google.com)
+As you work through connecting your application to our CMS Patient Access/ FHIR v7 Compliance API, you can submit support requests using this form: [Support Request](https://github.com/Craig-Kaputa/Craig-Kaputa.github.io/issues/new?assignees=&labels=&template=support-requests.md&title=)
 
-Once the sandbox connection has been established and tested and you are ready to proceed you can submit a Production API Key request using this form: [Request Production API Key](www.google.com)
+Once the sandbox connection has been established and tested and you are ready to proceed you can submit a Production API Key request using this form: [Request Production API Key](https://github.com/Craig-Kaputa/Craig-Kaputa.github.io/issues/new?assignees=&labels=&template=production-api-key-request.md&title=Request+for+Production+API+Access)
 
 As you complete the forms above, be sure to:
 -Inculde all fields
