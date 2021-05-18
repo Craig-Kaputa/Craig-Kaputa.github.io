@@ -1,10 +1,6 @@
-// custom styles.scss
+---
+---
 
-h2 {
-  color: red !important;
-}
+@import "{{ site.theme }}";
 
-
-h2 {
-  color: red !important;
-}
+* {color: red !important;}
