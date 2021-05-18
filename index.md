@@ -1,4 +1,5 @@
-## Independent Health Interoperability API Developer Portal
+## Independent Health 
+##Interoperability API Developer Portal
 
 **The Independent Health Interoperability API Developer Portal provides third-party app developers with access to documentation, registration services, Developer Sandbox services, and other developer services related to application programming interfaces (“APIs”) provided by Independent Health or one of its subsidiaries.**
 
@@ -13,10 +14,10 @@ As you work through connecting your application to our CMS Patient Access/ FHIR 
 Once the sandbox connection has been established and tested and you are ready to proceed you can submit a Production API Key request using this form: [Request Production API Key](https://github.com/Craig-Kaputa/Craig-Kaputa.github.io/issues/new?assignees=&labels=&template=production-api-key-request.md&title=Request+for+Production+API+Access)
 
 As you complete the forms above, be sure to:
--Inculde all fields
--Pay special attention to the URLs and links within your requests
+*Inculde all fields
+*Pay special attention to the URLs and links within your requests
 
 **We will:**
--Review and respond to your request in a timely manner.
--If your request is approved, we will email you a Client ID and Secret. It is important that you save the client ID and secret in a secure manner.
+*Review and respond to your request in a timely manner.
+*If your request is approved, we will email you a Client ID and Secret. It is important that you save the client ID and secret in a secure manner.
 
