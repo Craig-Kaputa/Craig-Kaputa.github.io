@@ -23,5 +23,5 @@ Once the sandbox connection has been established and tested and you are ready to
 
 [Home Page](https://craig-kaputa.github.io/) 
 | [Support Request](https://github.com/Craig-Kaputa/Craig-Kaputa.github.io/issues/new?assignees=&labels=&template=support-requests.md&title=)
-| [Discussion Forum](https://github.com/Craig-Kaputa/Craig-Kaputa.github.io/support.md)
+| [Discussion Forum](https://github.com/Craig-Kaputa/Craig-Kaputa.github.io/discussions)
 
