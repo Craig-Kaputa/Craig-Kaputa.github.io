@@ -20,3 +20,8 @@ Once the sandbox connection has been established and tested and you are ready to
 **We will:**
 * Review and respond to your request in a timely manner.
 * If your request is approved, we will email you a Client ID and Secret. It is important that you save the client ID and secret in a secure manner.
+
+[Home Page](https://craig-kaputa.github.io/) 
+| [Support Request](https://github.com/Craig-Kaputa/Craig-Kaputa.github.io/issues/new?assignees=&labels=&template=support-requests.md&title=)
+| [Discussion Forum](https://github.com/Craig-Kaputa/Craig-Kaputa.github.io/support.md)
+
