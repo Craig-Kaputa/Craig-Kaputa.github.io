@@ -9,9 +9,14 @@ assignees: ''
 
 # Please fill in the information below and submit this request for a Sandbox API Key.
 
-**Developer First Name**          : ____________________________________________
+First Header | Second Header
+------------ | -------------
+**Developer First Name**  | _
+**Developer Last Name**  | -
 
-**Developer Last Name**          : ____________________________________________
+         : ____________________________________________
+
+         : ____________________________________________
 
 **Developer Email Address**    : ____________________________________________
 
