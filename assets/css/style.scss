@@ -17,6 +17,14 @@ $heading-font-color: $ih-red;
   background: $white;
 }
 
+#forkme_banner {
+  display: none;
+}
+
+#project_title, #project_tagline {
+  text-shadow: none;
+}
+
 h1, h2, h3, h4, h5{
   color: $ih-red !important;
   font-family: $heading-font;
