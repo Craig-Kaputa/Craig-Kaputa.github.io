@@ -13,6 +13,10 @@ $body-font-color: #000;
 $heading-font: calluna-sans, Helvetica, Arial, sans-serif;
 $heading-font-color: $ih-red;
 
+.inner {
+  max-width: 1024px;
+}
+
 #header_wrap {
   background: $white;
 }
