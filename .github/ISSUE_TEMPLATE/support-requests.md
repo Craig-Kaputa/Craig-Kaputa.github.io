@@ -9,17 +9,14 @@ assignees: ''
 
 # Please fill in the information below and submit this request for support
 
-**Developer First Name**          : ____________________________________________
+Field           | Answer
+------------ | -------------
+**Developer First Name**  | 
+**Developer Last Name**  | 
+**Developer Email Address**  | 
+**Company Name**       |       
+**Corporate Home Country**   | 
+**Application Name**    |        
 
-**Developer Last Name**          : ____________________________________________
-
-**Developer Email Address**    : ____________________________________________
-
-**Company Name**                  : ____________________________________________
-
-**Corporate Home Country**   : ____________________________________________
-
-**Application Name**               : ____________________________________________
-
-
+  
 **Please describe in detail the issues that you are encountering.  Please include log files, screen shots and steps to reproduce in your submission.**
