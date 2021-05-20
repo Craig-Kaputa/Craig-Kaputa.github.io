@@ -15,6 +15,5 @@ As you work through connecting your application to our CMS Patient Access/ FHIR 
 [Home Page](https://craig-kaputa.github.io/) 
 | [Support Request](https://github.com/Craig-Kaputa/Craig-Kaputa.github.io/issues/new?assignees=&labels=&template=support-requests.md&title=)
 | [Discussion Forum](https://github.com/Craig-Kaputa/Craig-Kaputa.github.io/discussions)
-| [Discussion Forum](https://github.com/Craig-Kaputa/Craig-Kaputa.github.io/discussions)
 
  
