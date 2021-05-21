@@ -15,11 +15,14 @@ $heading-font-color: $ih-red;
 
 .inner {
   max-width: 1024px;
-  padding: 20px 10px 10px 10px;
 }
 
 #header_wrap {
   background: $white;
+  
+  .inner {
+      padding: 20px 10px 10px 10px;
+  }
 }
 
 #forkme_banner {
