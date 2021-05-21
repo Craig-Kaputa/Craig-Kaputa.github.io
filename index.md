@@ -4,6 +4,8 @@ If you are a DEVELOPER and would like to connect your application to our Interop
 The Developer Sandbox will allow 3rd Party Application Developers to test their application’s connection to the APIs.
 Our 3rd Party Developer forum will allow you to search through discussions and review previously asked questions.
 
+![Authentication Flow](/assets/images/auth-flow.png)
+
 When you are ready you can submit a request for access to the Sandbox version of the Interoperability API using this form: [Request Sandbox API Access](https://github.com/Craig-Kaputa/Craig-Kaputa.github.io/issues/new?assignees=&labels=&template=sandbox-api-key-request.md&title=Request+for+Sandbox+API+Access)
 
 As you work through connecting your application to our CMS Patient Access/ FHIR v7 Compliance API, you can submit support requests using this form: [Support Request](https://github.com/Craig-Kaputa/Craig-Kaputa.github.io/issues/new?assignees=&labels=&template=support-requests.md&title=)
