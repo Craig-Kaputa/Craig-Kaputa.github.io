@@ -4,14 +4,14 @@
 @import "{{ site.theme }}";
 @import url("https://use.typekit.net/gsp5xxl.css");
 
-$ih-red: #d31145;
+$primary-color: #37939B;
 $white: #ffffff;
 $body-font: Helvetica, Arial, sans-serif;
 $body-font-size: 12px;
 $body-font-color: #000;
 
 $heading-font: calluna-sans, Helvetica, Arial, sans-serif;
-$heading-font-color: $ih-red;
+$heading-font-color: $primary-color;
 
 .inner {
   max-width: 1024px;
@@ -34,7 +34,7 @@ $heading-font-color: $ih-red;
 }
 
 h1, h2, h3, h4, h5{
-  color: $ih-red !important;
+  color: $primary-color !important;
   font-family: $heading-font;
   font-weight: 400;
   font-style: normal;
