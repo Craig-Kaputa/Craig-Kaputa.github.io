@@ -1,6 +1,3 @@
-## Independent Health 
-### Interoperability API Developer Portal
-
 **The Independent Health Interoperability API Developer Portal provides third-party app developers with access to documentation, registration services, Developer Sandbox services, and other developer services related to application programming interfaces (“APIs”) provided by Independent Health or one of its subsidiaries.**
 
 If you are a DEVELOPER and would like to connect your application to our Interoperability API we’re here to support you each step of the way. 
